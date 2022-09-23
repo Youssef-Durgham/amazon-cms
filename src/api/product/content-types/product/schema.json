@@ -1,0 +1,130 @@
+{
+  "kind": "collectionType",
+  "collectionName": "products",
+  "info": {
+    "singularName": "product",
+    "pluralName": "products",
+    "displayName": "products",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "price": {
+      "type": "decimal"
+    },
+    "published": {
+      "type": "string"
+    },
+    "brand": {
+      "type": "string"
+    },
+    "first_color": {
+      "type": "string"
+    },
+    "second_color": {
+      "type": "string"
+    },
+    "third_color": {
+      "type": "string"
+    },
+    "four_color": {
+      "type": "string"
+    },
+    "five_color": {
+      "type": "string"
+    },
+    "six_color": {
+      "type": "string"
+    },
+    "sven_color": {
+      "type": "string"
+    },
+    "eight_color": {
+      "type": "string"
+    },
+    "size1": {
+      "type": "string"
+    },
+    "size2": {
+      "type": "string"
+    },
+    "size3": {
+      "type": "string"
+    },
+    "size4": {
+      "type": "string"
+    },
+    "size5": {
+      "type": "string"
+    },
+    "size6": {
+      "type": "string"
+    },
+    "size7": {
+      "type": "string"
+    },
+    "size8": {
+      "type": "string"
+    },
+    "quantity": {
+      "type": "integer"
+    },
+    "discount_price": {
+      "type": "decimal"
+    },
+    "category": {
+      "type": "string"
+    },
+    "bestseller": {
+      "type": "boolean"
+    },
+    "featured": {
+      "type": "string"
+    },
+    "ratings": {
+      "type": "biginteger"
+    },
+    "discount_start_date": {
+      "type": "datetime"
+    },
+    "discount_end_date": {
+      "type": "datetime"
+    },
+    "image": {
+      "type": "text"
+    },
+    "images": {
+      "type": "json"
+    },
+    "type": {
+      "type": "string"
+    },
+    "image2": {
+      "type": "string"
+    },
+    "image3": {
+      "type": "string"
+    },
+    "image4": {
+      "type": "string"
+    },
+    "image5": {
+      "type": "string"
+    },
+    "image6": {
+      "type": "string"
+    },
+    "retingstar": {
+      "type": "decimal"
+    }
+  }
+}
